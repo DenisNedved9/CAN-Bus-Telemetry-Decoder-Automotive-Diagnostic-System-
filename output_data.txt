@@ -1,0 +1,88 @@
+DOORS RECORD:
+
+Right front door: open
+Left front door: open
+Right back door: open
+Left back door: closed
+Trunk: open
+
+________________________________________
+
+Brake System RECORD:
+
+ABS Status: on
+Brake Pad Wear: ok
+Electronic Stability Control: stable
+Right front tire brake system: ok
+Left front tire brake system: ok
+Right back tire brake system: ok
+Left back tire brake system: needs to be checked
+
+________________________________________
+
+Brake System RECORD:
+
+ABS Status: on
+Brake Pad Wear: need replacement!
+Electronic Stability Control: stable
+Right front tire brake system: ok
+Left front tire brake system: ok
+Right back tire brake system: ok
+Left back tire brake system: ok
+
+________________________________________
+
+ENGINE RECORD:
+
+Temperature: normal
+approximate RPM: 8000
+Oil pressure: normal
+
+________________________________________
+
+DOORS RECORD:
+
+Right front door: closed
+Left front door: closed
+Right back door: closed
+Left back door: open
+Trunk: closed
+
+________________________________________
+
+Brake System RECORD:
+
+ABS Status: off
+Brake Pad Wear: need replacement!
+Electronic Stability Control: stable
+Right front tire brake system: ok
+Left front tire brake system: needs to be checked
+Right back tire brake system: needs to be checked
+Left back tire brake system: needs to be checked
+
+________________________________________
+
+Brake System RECORD:
+
+ABS Status: off
+Brake Pad Wear: need replacement!
+Electronic Stability Control: stable
+Right front tire brake system: ok
+Left front tire brake system: needs to be checked
+Right back tire brake system: needs to be checked
+Left back tire brake system: ok
+
+________________________________________
+
+Brake System RECORD:
+
+ABS Status: off
+Brake Pad Wear: need replacement!
+Electronic Stability Control: stable
+Right front tire brake system: ok
+Left front tire brake system: needs to be checked
+Right back tire brake system: ok
+Left back tire brake system: needs to be checked
+
+________________________________________
+
